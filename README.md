@@ -1,4 +1,10 @@
-### Hi there 👋
+![](https://github.com/ticofab/ticofab.github.io/blob/master/talks/reactive-meetup-wework.jpg)
+
+Welcome to the GitHub profile of a Software Developer & Community manager!  
+For more info about myself, please check my website [ticofab.io](http://ticofab.io)! ⭐️  
+This is my latest [learning list](https://ticofab.io/tech/2020-04-11-planned-learning/).
+
+I am interested in distributed systems and the challenges related to performance, resilience and scalability - so much that I founded the 'Reactive Amsterdam' meetup, where we discuss ideas and technologies related to these topics. I particularly like event-based, streaming data systems.
 
 <!--
 **ticofab/ticofab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
